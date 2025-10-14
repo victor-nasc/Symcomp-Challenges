@@ -1,707 +1,1001 @@
-algoritmoLabel
-delta encoding
-forward–backward algorithm
-Dijkstra's algorithm
-path tracing
-Viterbi algorithm
-collaborative filtering
-simplex algorithm
-Zassenhaus algorithm
-Time-based One-time Password Algorithm
-PageRank
-diffusing update algorithm
-genetic algorithm
-Cox–Zucker machine
-Euclidean algorithm
-Computus
-random forest
-A-law algorithm
-Hungarian algorithm
-Ford–Fulkerson algorithm
-Jenks natural breaks optimization
-AVL tree
-μ-law algorithm
-memetic algorithm
-supervised learning
-Shifting nth root algorithm
-Adam7 algorithm
-pruning
-felicific calculus
-local outlier factor
-CoDel
-middle-square method
-Prim's algorithm
-payback period rule
-Gram-Schmidt process
-sequitur algorithm
-Aitken's delta-squared process
-Levenshtein distance
-SIMPLE algorithm
-Christofides algorithm
-CMA-ES
-Apriori algorithm
-cross-validation
-BKM algorithm
-IntelliSense
-push–relabel maximum flow algorithm
-Canny edge detector
-mark-compact algorithm
-Liang–Barsky algorithm
-Quine–McCluskey algorithm
-MTD-f
-binary GCD algorithm
-BCJR algorithm
-selection (genetic algorithm)
-Phong shading
-Nagle's algorithm
-perceptron
-Yarrow algorithm
-Dinic's algorithm
-Barabási–Albert model
-Minimax
-Voronoi diagram
-scale-invariant feature transform
-Cristian's algorithm
-bootstrap aggregating
-Barnes–Hut simulation
-Baum–Welch algorithm
-naive Bayes classifier
-Bayesian spam filtering
-Berlekamp's algorithm
-Berlekamp–Massey algorithm
-Glushkov's construction algorithm
-Kalman filter
-exponentiation by squaring
-Bluestein's FFT algorithm
-Blum–Micali algorithm
-branch and bound
-Cahn–Ingold–Prelog priority rules
-Configuration interaction
-direct linear transformation
-SuperFetch
-Metropolis–Hastings algorithm
-Luhn algorithm
-Lucas–Kanade method
-painter's algorithm
-Horner's method
-Pollard's rho algorithm
-Scanline rendering
-watershed
-God's algorithm
-CYK algorithm
-Buchberger's algorithm
-Buddy memory allocation
-C4.5 algorithm
-classification and regression tree
-Deutsch–Jozsa algorithm
-Common Scrambling Algorithm
-HITS algorithm
-method of undetermined coefficients
-density functional theory
-Cayley–Purser algorithm
-census transform
-Richardson extrapolation
-Clenshaw algorithm
-British Museum algorithm
-k-nearest neighbors algorithm
-Coupled cluster
-Petrick's method
-seam carving
-Cuthill–McKee algorithm
-Davis–Putnam algorithm
-De Casteljau's algorithm
-Gibbs sampling
-Newell's algorithm
-shading
-shunting-yard algorithm
-diamond-square algorithm
-Savitzky–Golay smoothing filter
-Ramer–Douglas–Peucker algorithm
-SGI algorithm
-Earley parser
-Hebbian rule
-Edmonds–Karp algorithm
-Floyd–Steinberg dithering
-second quantization
-first quantization
-extended Euclidean algorithm
-Unicode Bidirectional Algorithm
-nearest neighbour algorithm
-Risch algorithm
-Expectiminimax tree
-Felzenszwalb-Huttenlocher Algorithm
-accounting rate of return
-symmetric Lanczos algorithm
-tabu search
-Levenberg–Marquardt algorithm
-least mean squares filter
-Unicode Segmentation Algorithm
-Fourier–Motzkin elimination
-Goertzel algorithm
-Unicode collation algorithm
-Gauss–Newton algorithm
-chromosome
-Hopcroft–Karp algorithm
-Samuelson–Berkowitz algorithm
-butterfly diagram
-summed-area table
-Gutmann method
-Floyd Cycle Detection Algorithm
-maze solving algorithm
-Hilltop algorithm
-Hirschberg's algorithm
-ID3 algorithm
-Johnson's rule
-Roberts algorithm
-KSTEM
-Edmonds' algorithm
-Pohlig–Hellman algorithm
-investment costs comparison calculation
-approximate string-matching algorithm
-Sutherland–Hodgman algorithm
-LRU
-Marching cubes
-Markov algorithm
-Pollard's kangaroo algorithm
-median cut
-Cohen–Sutherland algorithm
-Tomasulo algorithm
-Pollard's p − 1 algorithm
-null encryption
-Tarjan's strongly connected components algorithm
-Rete algorithm
-Nussinov algorithm
-Odds algorithm
-Frank–Wolfe algorithm
-Bron–Kerbosch algorithm
-XTR
-particle swarm optimization
-Cesaro summation
-Rijndael mix columns
-vertical cell decomposition
-SURF
-Karmarkar's algorithm
-Digital differential analyzer
-Great Deluge algorithm
-Bareiss algorithm
-bat algorithm
-Batcher odd–even mergesort
-Bayesian inference using Gibbs sampling
-Bayesian tool for methylation analysis
-Beeman's algorithm
-Beier–Neely morphing algorithm
-Benson's algorithm
-Berendsen thermostat
-Berlekamp–Zassenhaus algorithm
-Berlekamp–Welch algorithm
-Reverse-delete algorithm
-Block Lanczos algorithm for nullspace of a matrix over a finite field
-Block Wiedemann algorithm
-Bowyer–Watson algorithm
-Bruun's FFT algorithm
-Bulirsch–Stoer algorithm
-Buzen's algorithm
-C-Link
-CJCSG
-CLEAN
-CN2 algorithm
-CONQUEST
-Cascade algorithm
-Cellular evolutionary algorithm
-certification path validation algorithm
-Chaff algorithm
-Chaitin's algorithm
-chase algorithm
-Cheney's algorithm
-Chew's second algorithm
-Chien search
-Cipolla's algorithm
-Client Puzzle Protocol
-Coffman–Graham algorithm
-Compound TCP
-Condensation algorithm
-Cone algorithm
-Consistent Overhead Byte Stuffing
-constraint algorithm
-Cooley–Tukey FFT algorithm
-Cornacchia's algorithm
-covariance intersection
-Cracovian
-Cultural algorithm
-cycle sort
-Cyrus–Beck algorithm
-Damm algorithm
-Day–Stout–Warren algorithm
-De Boor's algorithm
-Dead-end elimination
-Difference-map algorithm
-Diffusion map
-super-recursive algorithm
-Drizzle
-Dykstra's projection algorithm
-dynamic mode decomposition
-Edge disjoint shortest pair algorithm
-Elston–Stewart algorithm
-Expected linear time MST algorithm
-FKT algorithm
-FNN algorithm
-FastContact
-Fast folding algorithm
-Faugère's F4 and F5 algorithms
-Featherstone's algorithm
-feature hashing
-Felsenstein's tree-pruning algorithm
-Fiduccia-Mattheyses algorithm
-Firefly algorithm
-First Order Inductive Learner
-Forney algorithm
-Fortune's algorithm
-fuzzy extractor
-galley division
-Gaussian adaptation
-Gerchberg–Saxton algorithm
-Gibbs algorithm
-Gillespie algorithm
-Girvan–Newman algorithm
-Gosper's algorithm
-greedy coloring
-GrowCut algorithm
-Guruswami–Sudan list decoding algorithm
-HARP
-HS algorithm
-Happy Eyeballs
-Candidate-Elimination Algorithm
-Holographic algorithm
-Pseudo-polynomial time
-hybrid difference scheme
-IP forwarding algorithm
-In-crowd algorithm
-inside–outside algorithm
-Island algorithm
-Promoter based genetic algorithm
-RMPO
-Rotating calipers
-Schoof–Elkies–Atkin algorithm
-Sethi–Ullman algorithm
-Tiling
-Jenkins–Traub algorithm
-Jump-and-Walk algorithm
-Korean Certificate-based Digital Signature Algorithm
-Kabsch algorithm
-Karloff–Zwick algorithm
-Knuth's Algorithm X
-Kronecker substitution
-LEB128
-LIRS caching algorithm
-LU reduction
-LZWL
-Lander–Green algorithm
-Landweber iteration
-"wash, rinse, repeat"
-Lehmer's GCD algorithm
-Lehmer–Schur algorithm
-Lemke's algorithm
-Freivalds' algorithm
-Wang and Landau algorithm
-Lill's method
-Lindsey–Fox algorithm
-Local Elevation
-Local replacement algorithm
-local ternary patterns
-Luhn mod N algorithm
-Luleå algorithm
-MCS algorithm
-MClone
-Manhattan address algorithm
-Mehrotra predictor–corrector method
-Metropolis light transport
-Minimax approximation algorithm
-minimum bounding box algorithm
-bag-of-words model in computer vision
-Mm algorithm
-Momel
-Multislice
-Neuroevolution of augmenting topologies
-non-linear iterative partial least squares
-One-pass algorithm
-Perceptual Speech Quality Measure
-Package-merge algorithm
-Pantelides algorithm
-Parks-McClellan filter design algorithm
-Path-based strong component algorithm
-Pitch detection algorithm
-poker calculator
-Polynomial-time algorithm for approximating the volume of convex bodies
-prime-factor FFT algorithm
-Proxmap sort
-prune and search
-QRISK
-Quality control and genetic algorithms
-Quiescence search
-RC algorithm
-RNA22
-RNA integrity number
-ROAM
-Rader's FFT algorithm
-Random walker algorithm
-Randomized weighted majority algorithm
-Read-copy-update
-reassignment method
-Reconstruction algorithm
-Reeds–Sloane algorithm
-Reversible reference system propagation algorithm
-Rocchio algorithm
-Run-time algorithm specialisation
-Ruppert's algorithm
-SARSA
-SEBAL
-SPIKE algorithm
-STRIDE
-Sardinas–Patterson algorithm
-Schreier–Sims algorithm
-scoring algorithm
-second partial derivative test
-Sequence clustering
-Sequence step algorithm
-Simulated fluorescence process algorithm
-Smoothed analysis
-Soft output Viterbi algorithm
-standard swap
-Statistical Region Merging
-structure from motion
-Sukhotin's algorithm
-Suurballe's algorithm
-Suzuki-Kasami algorithm
-Swendsen–Wang algorithm
-TSC-3
-Tarski–Kuratowski algorithm
-Tate's algorithm
-Thompson's construction algorithm
-ThreeBallot
-tournament sort
-Track algorithm
-Tunstall coding
-Ukkonen's algorithm
-Neville's algorithm
-VEGAS algorithm
-Vatti clipping algorithm
-Vector Field Histogram
-Virtual Valve Amplifier
-Wake-sleep algorithm
-Water filling algorithm
-weighted majority algorithm
-Wu's method of characteristic set
-XDAIS algorithms
-Yamb
-Yarowsky algorithm
-Yen's algorithm
-Zemor's decoding algorithm
-TCP Vegas
-rsync algorithm
-DCLZ
-edge-labelled directed tree
-SCOUT
-tessellation
-Imperialist competitive algorithm
-Intelligent Water Drops algorithm
-Liu Hui's π algorithm
-packrat parser
-Levinson recursion
-LZP
-RODM
-sequence calculation
-Trémaux’ Methode
-Italian fiscal code
-Crout matrix decomposition
-IPO underpricing algorithm
-Inparanoid
-Genetic algorithms in economics
-OATH Challenge-Response Algorithm
-Out-of-kilter algorithm
-Petkovšek's algorithm
-Devex algorithm
-subgroup method
-pairwise sorting network
-Bayes classifier
-Davidon–Fletcher–Powell formula
-Block sort
-Hunt–McIlroy algorithm
-Floyd–Rivest algorithm
-Datafly algorithm
-SALSA algorithm
-Quantum algorithm for linear systems of equations
-Reversible-jump Markov chain Monte Carlo
-Greiner-Hormann clipping algorithm
-Newton's method in optimization
-HCS clustering algorithm
-Hybrid algorithm
-HyperLogLog
-Introselect
-Itoh-Tsujii inversion algorithm
-kernel perceptron
-YDS algorithm
-Minimum degree algorithm
-Pocklington's algorithm
-Raft
-Kleene's algorithm
-Loewy decomposition
-Split-radix FFT algorithm
-Tonelli–Shanks algorithm
-PISO algorithm
-Solution algorithms for pressure-velocity coupling in steady flows
-Möller–Trumbore intersection algorithm
-Teiresias algorithm
-Platt scaling
-Nested sampling algorithm
-Weighted correlation network analysis
-Atlantic City algorithm
-Calibration of radiocarbon dates
-Knuth's Simpath algorithm
-Kleitman–Wang algorithms
-curve shortening flow
-t-Distributed Stochastic Neighbor Embedding
-Kaprekar algorithm
-Shuffled frog leaping algorithm
-Misra & Gries edge coloring algorithm
-Boyer-Moore Majority Vote Algorithm
-Domain reduction algorithm
-item-item collaborative filtering
-Held–Karp algorithm
-Filtered back projection
-Deep Q-Network
-Heron's method
-Pollard-Strassen algorithm
-Kronecker's method
-Double Ratchet Algorithm
-Flajolet–Martin algorithm
-GloVe
-RankBrain
-Open Location Code
-Algorithms and Data Structures
-flower pollination algorithm
-RCASE
-Farthest-first traversal
-Fast Algorithms for Multidimensional Signals
-SIMPLEC algorithm
-Rocha–Thatte cycle detection algorithm
-Aladdin
-Kunstweg
-G Subscript C
-Bernoulli's triangle
-Debate algorithm
-AIVA
-Shapiro–Senapathy algorithm
+personLabel
+Vijay Vazirani
+Frieder Nake
+Charles Colbourn
+Ipke Wachsmuth
+Christoph Meinel
+Michael Loceff
+Michael Kölling
+Luca Trevisan
+Heinz Rutishauser
+Nick Pippenger
+David C. Evans
+Alan Ashton
+David Haussler
+Phil Moorby
+Bernhard Nebel
+John Fairclough
+Mary Ann Horton
+Norbert Fuhr
+Daniel A. Keim
+Christof Ebert
+T. V. Raman
+Harold Cohen
+David G. Kirkpatrick
+Ralph Griswold
+Joe Celko
+Klaus Dittrich
+Hans-Peter Seidel
+Franz Baader
+David May
+Hartmut Surmann
+Maynard V. Olson
+James Goodnight
+John G.F. Francis
+Jürgen Schmidhuber
+Anant Agarwal
+Ike Nassi
+Kent Beck
+John McCarthy
+Jef Raskin
+Alonzo Church
+Alan Kay
+Vint Cerf
+Kristen Nygaard
+Ole-Johan Dahl
+John Backus
+Eric Schmidt
+Yukihiro Matsumoto
+Robert Cailliau
+David H. Bailey
+Bo Leuf
+Paul Kunz
+Ralph Johnson
+John Vlissides
+Johan Håstad
+Eugene Myers
+Michael Stonebraker
+Larry Ellison
+Claude Shannon
+Ian Murdock
+Jay Wright Forrester
+Sergey Brin
+Seymour Cray
+Robert Metcalfe
+Lotfi A. Zadeh
+Rasmus Lerdorf
+Scott E. Fahlman
+Jon Stephenson von Tetzchner
+Janus Friis
+Dan Ingalls
+Franz Alt
+Stephen R. Bourne
+Steve Furber
+Paul Vixie
+J. C. R. Licklider
+Ingo Molnár
+Iosif Sifakis
+William Kahan
+Fred Cohen
+David A. Huffman
+Tom Kilburn
+Maurice Karnaugh
+Bill Atkinson
+Ron Jeffries
+James Rumbaugh
+Blake Ross
+Róbert Szelepcsényi
+Jeffrey David Ullman
+Juraj Hromkovič
+Seymour Ginsburg
+David E. Goldberg
+Dave Cutler
+David S. Johnson
+Grady Booch
+Umesh Vazirani
+Marshall Kirk McKusick
+Scott Forstall
+Rodney Brooks
+Irit Dinur
+Shmuel Safra
+Shlomo Moran
+Tim Berners-Lee
+Jimmy Wales
 
-Proof of Work
-70 years or more after author(s) death
-Meissel–Lehmer algorithm
-TransE
+Ken Jennings
+Julian Assange
+Eugene Kaspersky
+Larry Page
+Bill Gates
+Alan Turing
+Ada Lovelace
+Kevin Mitnick
+Deborah Estrin
+Elizabeth J. Feinler
+Valerie Aurora
+Mary Gardiner
+Sally Floyd
+Sandra Lerner
+Pattie Maes
+Jude Milhon
+Nicola Pellow
+Radia Perlman
+Ping Fu
+Joyce K. Reynolds
+Jaime Levy
+Ward Cunningham
+Edsger W. Dijkstra
+Noam Chomsky
+Glenda Schroeder
+Dorit Aharonov
+Susanne Albers
+Frances Allen
+Sarah Allen
+Anita K. Jones
+Annie Antón
+Cecilia R. Aragon
+Winifred Asprey
+Jacob Appelbaum
+Terri Attwood
+Donna Auguste
+Chrisanthi Avgerou
+Henriette Avram
+Ruzena Bajcsy
+John Knoll
+Jean Bartik
+Evelyn Berezin
+Francine Berman
+Danielle Bunten Berry
+Orna Berry
+Sue Black
+Kathleen Booth
+Anita Borg
+Maxine D. Brown
+Jennifer Tour Chayes
+Amanda Chessell
+Anne Condon
+Lynn Conway
+Danese Cooper
+Kate Craig-Wood
+Leah Culver
+Dorothy E. Denning
+Susan T. Dumais
+Cynthia Dwork
+Annie Easley
+Thelma Estrin
+Jeanne Ferrante
+Phyllis Fox
+Frances A. Rosamond
+Charlotte Froese Fischer
+Susan Gerhart
+Carole Goble
+Adele Goldberg
+Shafrira Goldwasser
+Susan L. Graham
+Diane Greene
+Sheila Greibach
+Nancy Davis Griffeth
+Rebecca Grinter
+Nancy Hafkin
+Lois Haibt
+Ashawna Hailey
+Wendy Hall
+Margaret Hamilton
+Jane Hillston
+Betty Holberton
+Molly Holzschlag
+Grace Hopper
+Ayanna Howard
+Mary Jane Irwin
+Leah Jamieson
+Sabina Jeschke
+Katherine Johnson
+Lynne Jolitz
+Lila Kari
+Arfa Karim
+Anna Karlin
+Lydia E. Kavraki
+Mary Kenneth Keller
+Maria Klawe
+Daphne Koller
+Janet Kolodner
+Marta Zofia Kwiatkowska
+Monica S. Lam
+Susan Landau
+Amy L. Lansky
+Corinna E. Lathan
 
-Hub-labelling Algorithm
-Harris Corner Detector
-Teknomo–Fernandez algorithm
-Multifidelity simulation
-Putzer algorithm
-Lifelong Planning A*
-Uniform Manifold Approximation and Projection
-parallel breadth-first search
-computus
-Brent algorithm
-Multi-fragment algorithm
-Bartels–Stewart algorithm
-Gestalt Pattern Matching
-Continuous High-resolution Image Reconstruction using Patch priors
-Pan-Tompkins algorithm
-Interpolation sort
-DPLL(T)
-Whitehead's algorithm
-Evdokimov's algorithm
-Gale–Shapley algorithm
-Wigderson algorithm
-P4ul&4rthur
-Irish logarithms
-Harvey–van der Hoeven algorithm
-Wavefront expansion algorithm
-Griffin-Lim signal estimation algorithm
-baking
-Sigaps
-Csanky's algorithm
-You Only Look Once
-local custom for the time span between between birth and baptism
-DeezyMatch
-Visvalingam–Whyatt algorithm
-Ofqual exam results algorithm
-2Sum
-The Library of Babel
-Ramanujan Machine
-screen space directional occlusion
-circular projection
-Erasure method
-Bug algorithm
-842
-line count
-α-ICON
-count of subdirectories
-Token-based replay
-domain-ontology-based fuzzy-powered named-entity recognition matcher
-Rudin–Osher–Fatemi model
-Statistics-sensitive Non-linear Iterative Peak-clipping
-Lentz's algorithm
-Naimi-Trehel algorithm
-Sieve of Pritchard
-Inception score
-text-to-image generation
-Gauss separation algorithm
-multi-tensor decomposition
-Weisfeiler–Leman algorithm
-Weak Stability Boundary
-Colour refinement algorithm
-Misra–Gries heavy hitters algorithm
-local directional ternary pattern
-local directional pattern
-Atkinson dithering
-MCR-AR
-TACET
-Marr–Hildreth algorithm
-Bailey's FFT algorithm
-crow search algorithm
-Tendermint
-Chambolle-Pock algorithm
-slab method
-Integrated Multi-Satellite Retrievals for GPM
-Limited Error Raster Compression
-Top-p sampling
-Learned sparse retrieval
-196-algorithm
-Note G
-Peter-Clark algorithm
-GYO algorithm
-additive noise model algorithm
-Distributional Soft Actor Critic
-DeepLab
-DirectLiNGAM Algorithm
-ICALiNGAM Algorithm
-GES algorithm
-PNL Algorithm
-NOTEARS Algorithm
-NOTEARS-MLP Algorithm
-NOTEARS-SOB Algorithm
-NOTEARS-lOW-RANK Algorithm
-DAG-GNN Algorithm
-GOLEM Algorithm
-GraNDAG Algorithm
-Probability Based Matching
-Knuth–Plass line-breaking algorithm
-PhenoAge
-Whale Optimization Algorithm
-Masked Gradient-Based Causal Structure Learning
-graph autoencoder
-Reinforcement Learning (Causal Discovery)
-Causal discovery with Ordering-based Reinforcement Learning
-Topological Hawkes Processes for Causal Structure Learning
-Hybrid causal graph learning method
-add-with-carry
-Transplant Benefit Score
-Korf's Algorithm
-M.U.C. Love Letter Generator
-SMOSAR
-AlphaPose
-neural forest
-Chandrasekhar algorithm
-Robinson's unification algorithm
-charge/discharge optimization
-Pledge algorithm
-Simplification of Ratios
-Pivot algorithm
-Spectral test
-Tseytin transformation
-Johnson's algorithm
-sweep line algorithm
-synthesis algorithm
-Super-seeding
-EdgeRank
-topology optimization
-Unicode Line Breaking Algorithm
-Viola–Jones object detection framework
-Local binary patterns
-Odlyzko–Schönhage algorithm
-Warnock algorithm
-method of the second derivative
-Weiler–Atherton clipping algorithm
-Wolff algorithm
-Slow-start
-Kosaraju's algorithm
-Lenstra elliptic curve factorization
-Q-learning
-Linear classifier
-AdaBoost
-Clarke & Wright's savings algorithm
-Cantor–Zassenhaus algorithm
-Knuth–Bendix completion algorithm
-Lloyd's algorithm
-Remez algorithm
-Schoof's algorithm
-Wagner–Fischer algorithm
-prime factorization algorithm
-Block-matching algorithm
-𝑛th root algorithm
-Streaming algorithm
-Top-nodes algorithm
-Estimation of distribution algorithm
-PSOLA
-Broyden–Fletcher–Goldfarb–Shanno algorithm
-Ziggurat algorithm
-Rabin signature algorithm
-maze generation algorithm
-Random naive Bayes
-Kahan summation algorithm
-divided differences
-Hashlife
-Cholesky decomposition
-Features from Accelerated Segment Test
-Gran plot
-column generation
-chaos game
-connected-component labeling
-SSS*
-Artificial bee colony algorithm
-BLEU
-second derivative test
-Ada Lovelace’ algorithm for computing Bernoulli numbers
-midpoint circle algorithm
-shoelace formula
-intercept method
-arbitrary slice ordering
-MNOD
-multiple signal classification
-FNAm2
-HMAC-based One-time Password Algorithm
-LL(1)
-LR(0)
-MOSQUITO
-SFLASH
-Bentley–Ottmann algorithm
-Verhoeff algorithm
-Gilbert–Johnson–Keerthi distance algorithm
-Lubachevsky–Stillinger algorithm
-belief propagation
-Google Panda
-Lagrange method
-3-opt
-ALOPEX
-Adaptive-additive algorithm
-Addition-chain exponentiation
-Adleman–Pomerance–Rumely primality test
-Algebraic-group factorisation algorithm
-Alpha algorithm
-Alpha max plus beta min algorithm
-Approximate counting algorithm
-artificial bee colony algorithm
-Astronomical algorithm
-Auction algorithm
-BHHH algorithm
-BRST algorithm
-Bach's algorithm
-Backfitting algorithm
-Backpressure routing
-backtracking line search
+Ming C. Lin
+Joyce Currie Little
+Liuba Shrira
+Nancy Lynch
+Shigeru Miyamoto
+Rashad Khalifa
+Daniel Tammet
+Ursula Martin
+Alexia Massalin
+Marissa Mayer
+Lori McCreary
+Renée Miller
+Johanna Moore
+Enid Mumford
+Caryn Navy
+Evi Nemeth
+Klara Dan von Neumann
+Angela Orebaugh
+Wanda Orlikowski
+Susan Owicki
+Meredith L. Patterson
+Stormy Peters
+Rosalind Picard
+Nichole Pinkard
+Diane Pozefsky
+Joanne Pransky
+Dana Randall
+Elizabeth Rather
+Colette Rolland
+Dana Ron
+Daniela L. Rus
+Reihaneh Safavi-Naini
+Jean E. Sammet
+Sarit Kraus
+Margo Seltzer
+Kaisa Sere
+Mary Shaw
+Hava Siegelmann
+Barbara Simons
+Diane Souvaine
+Karen Spärck Jones
+Ellen Spertus
+Katherine St. John
+Stella Atkins
+Ileana Streinu
+Maureen C. Stone
+Carolyn Talcott
+Éva Tardos
+Jaime Teevan
+Marilyn Tremaine
+Dana Ulery
+Manuela M. Veloso
+Nalini Venkatasubramanian
+Dorothea Wagner
+Wang Xiaoyun
+Tandy Warnow
+Elaine Weyuker
+Sue Whitesides
+Telle Whitney
+Mary Allen Wilkes
+Gail Williams
+Myra Wilson
+Sophie Wilson
+Jeannette Wing
+Mary Lee Woods
+Beatrice Helen Worsley
+Margaret H. Wright
+Irma Wyman
+Frances Yao
+Kateryna Yushchenko
+Maria Zemankova
+John von Neumann
+Donald Knuth
+Kathleen Antonelli
+Tsutomu Yamaguchi
+Gina Bianchini
+Theo de Raadt
+Steve Jobs
+Felix von Leitner
+Ahn Cheol-soo
+Cynthia Breazeal
+Sandy Carter
+Michael S. Hart
+Clive Sinclair
+Christoph Zenger
+John George Kemeny
+Narendra Karmarkar
+Guido van Rossum
+Leonard Kleinrock
+Linus Torvalds
+Jeri Ellsworth
+Mark Zuckerberg
+Caterina Fake
+Adele Goldstine
+Georg Gottlob
+Wolfgang Pree
+Gottfried Ungerboeck
+Kurt Mehlhorn
+Reinhard Wilhelm
+Bernhard Korte
+Michael Kohlhase
+Bernhard Thalheim
+Henning Kagermann
+Tom Stonier
+Edgar F. Codd
+Larry Wall
+Alexey Pajitnov
+Nicholas Negroponte
+Tony Hoare
+Niklaus Wirth
+John Carmack
+Jim Gray
+Brian Kernighan
+Fred Brooks
+Haskell Curry
+Richard M. Karp
+Leslie Lamport
+Sid Meier
+Paul Baran
+Peter Naur
+Richard Hamming
+Bjarne Stroustrup
+Andrew S. Tanenbaum
+James Gosling
+Jon Postel
+Dan Bricklin
+Fernando J. Corbató
+Manuel Blum
+Gary Kildall
+Juris Hartmanis
+Kenneth E. Iverson
+John Cocke
+Niklas Zennström
+Jacques Vallée
+John Ousterhout
+Ray Ozzie
+Robert Tarjan
+Christos Papadimitriou
+Robert W. Floyd
+Ton Roosendaal
+Robin Milner
+Butler Lampson
+John Henry Holland
+Robert Tappan Morris
+Brendan Eich
+Amir Pnueli
+Paul Graham
+Håkon Wium Lie
+Hans Reiser
+Bruce Perens
+Marcelo Tosatti
+Walter Savitch
+David D. Clark
+Craig Reynolds
+Jonathan Sachs
+James Clark
+Bob Wallace
+Ryan C. Gordon
+Shang-Hua Teng
+Sanjeev Arora
+John F. Sowa
+Mark Jerrum
+C. J. van Rijsbergen
+Bob Scheifler
+Jeffrey Shallit
+Jack Dongarra
+Julius Richard Büchi
+Dan Kaminsky
+Joe Ossanna
+Takeo Kanade
+Joël de Rosnay
+Michael Lynn
+David G. Lowe
+David Gelernter
+Rémy Card
+Jon Bosak
+Damian Conway
+Sartaj Sahni
+Norbert Pohlmann
+David H. D. Warren
+William Warren Tunnicliffe
+John Pasta
+Harald Ganzinger
+Daniel G. Bobrow
+Rudi Studer
+Richard Crandall
+Andy Hopper
+Philippe Flajolet
+David Harris
+Yiannis N. Moschovakis
+Horst Zuse
+Dieter Fox
+Stephen Brewster
+Dawn Song
+Zohar Manna
+Barry Boehm
+Gil Kalai
+Uriel Feige
+Edmund M. Clarke
+Raj Reddy
+E. Allen Emerson
+Richard E. Stearns
+Edward Feigenbaum
+Judea Pearl
+Mihalis Yannakakis
+Terry Winograd
+Charles P. Thacker
+Mark Russinovich
+Subhash Kak
+Peter Chen
+Peter Norvig
+Jack Elton Bresenham
+David Waltz
+Mark Overmars
+Rollo Carpenter
+Erich Gamma
+George Stibitz
+Mario Szegedy
+Gábor Tardos
+Jon Hall
+Miklós Ajtai
+David Marr
+László Babai
+Hermann Maurer
+Abraham Lempel
+Watts Humphrey
+Rudy Rucker
+Tom Duff
+David A. Patterson
+Michael J. Flynn
+Jean Ichbiah
+John L. Hennessy
+Ian Sommerville
+Paul Flaherty
+Ivar Jacobson
+Daniel Lewin
+Eric Bina
+L Peter Deutsch
+Vytautas Kaminskas
+Jaron Lanier
+Algirdas Avižienis
+Algimantas Kurlavičius
+Daniel J. Bernstein
+Jack Edmonds
+Ronald V. Book
+Irving S. Reed
+George Marsaglia
+Mark Adler
+Cleve Moler
+Stephen Altschul
+Roger Michael Needham
+Ken Sakamura
+Gordon Bell
+David Parnas
+
+Andrei Alexandrescu
+Tony Fadell
+Gerard Salton
+Douglas McIlroy
+Edward F. Moore
+Ric Weiland
+Ralph Merkle
+Friedemann Mattern
+Philippe Kruchten
+Patrick Prosser
+Wilfried Brauer
+Richard Wallace
+Claus P. Schnorr
+Chris McKinstry
+Victor S. Miller
+Geoffrey Hinton
+Marek Chrobak
+Wolfram Burgard
+Wolfgang Bibel
+Marek Karpinski
+Richard Grimsdale
+Mark N. Wegman
+Rick Gates
+Neil J. Gunther
+David Sayre
+Ted Selker
+Carsten Lund
+Jim Kurose
+Rudolf Kruse
+Dave Raggett
+Thomas Strothotte
+Ellis L. Johnson
+Dietmar Saupe
+Lawrence Landweber
+Anja Feldmann
+Klaus Samelson
+Terry Welch
+Corinna Cortes
+Tim Gill
+Charles Stark Draper
+Kurt Gödel
+Erna Schneider Hoover
+Mary Lou Jepsen
+Heinz Zemanek
+Patrick Volkerding
+Dennis M. Ritchie
+John McAfee
+Charles Babbage
+Susan Kare
+Marlyn Meltzer
+Benjamin Mako Hill
+Peter J. Denning
+Rob Levin
+Charles Simonyi
+Dana Scott
+Andrew Rubin
+Randy Pausch
+Ginni Rometty
+Patricia Selinger
+Carol Shaw
+Frances Spence
+Katia Sycara
+Mike Cowlishaw
+Ruth Teitelbaum
+Michael Morhaime
+Péter Gervai
+Ben Goodger
+Alan Cox
+Wilhelm Schickard
+Armin Meiwes
+Konrad Zuse
+Kim Dotcom
+George Yury Right
+Carl Adam Petri
+Carl Gustav Hempel
+Horst Feistel
+Tron
+Bob Kahn
+Miguel de Icaza
+Maurice Wilkes
+Alan Perlis
+Ivan Sutherland
+Stephen Cook
+John Edward Hopcroft
+James H. Wilkinson
+Marc Andreessen
+Peter Norton
+Andrew Yao
+Gene Amdahl
+Charles Bachman
+
+Steve Mann
+Sebastian Thrun
+Ben Shneiderman
+Jochen Liedtke
+Mark Zbikowski
+Carver Mead
+Mark Weiser
+Jim Kajiya
+Klaus Knopper
+Igor Sysoev
+Zeev Suraski
+Michael Spindler
+Daniel Domscheit-Berg
+Volker Strassen
+Andy Bechtolsheim
+Christof Leng
+Rudolf Bayer
+Georg C. F. Greve
+Friedrich L. Bauer
+Manfred Trenz
+Rolf Landauer
+Karl Steinbuch
+Harald Welte
+Wau Holland
+Bernd Sturmfels
+Martin Fowler
+Joseph Weizenbaum
+Johann Helfrich von Müller
+Günter Hotz
+Jawed Karim
+Matthias Ettrich
+Ingo Rechenberg
+Mario Jeckle
+Arnold Schönhage
+Hans Georg Bock
+Heinz von Foerster
+Jakob Nielsen
+Frank Ostrowski
+Hans Peter Luhn
+Odo Josef Struger
+Gerhard Chroust
+Franz Josef Radermacher
+Ingo Wegener
+Thomas Henzinger
+Peter A. Bruck
+Raúl Rojas
+Kai Krause
+Gustav Tauschek
+Dieter Fensel
+Hans-Peter Kriegel
+Manfred Broy
+Wolfgang Nebel
+Lance Fortnow
+Charles Goldfarb
+Mihai Nadin
+Alan Kotok
+An Wang
+Noga Alon
+Nicholas Metropolis
+Hans Piloty
+Theodore Ts'o
+Charles H. Bennett
+Edward Felten
+Per Brinch Hansen
+Mark P. McCahill
+Lawrence Roberts
+Trygve Reenskaug
+Joanna Rutkowska
+Gilles Brassard
+Robert C. Prim
+Tim Paterson
+Seth Lloyd
+William Daniel Hillis
+David Wheeler
+Brewster Kahle
+Bertrand Meyer
+Yehuda Afek
+Michael Jackson
+Simon Peyton Jones
+Marcel J. E. Golay
+Jacob T. Schwartz
+Peter Landin
+Bob Bemer
+Dries Buytaert
+Nat Friedman
+Andrew Morton
+Avi Wigderson
+Jamie Zawinski
+Peter J. Weinberger
+Bruce Eckel
+Jordan Hubbard
+Michael A. Arbib
+Rajeev Motwani
+Justin Frankel
+Aravind Joshi
+Leonid Levin
+Eric Allman
+Georgy Adelson-Velsky
+Dieter Rombach
+David Bradley
+Tatu Ylönen
+Keith Packard
+Wietse Venema
+Aaron Seigo
+Chu Bong-Foo
+Stuart Feldman
+Norman Abramson
+Jon Kleinberg
+Paul Lutus
+Werner Zorn
+Gerald Jay Sussman
+Gustave Solomon
+Robert Sedgewick
+Luis von Ahn
+Robin Li
+David S. Miller
+Wang Xuan
+Gerhard Weikum
+Jim Blinn
+Bui Tuong Phong
+
+Joshua Bloch
+Jeff Hawkins
+Michalis Dertouzos
+Wolfgang Wahlster
+Herb Sutter
+Kasper Skårhøj
+Evgenii Landis
+Charles H. Moore
+Thomas Kyte
+Llewellyn Thomas
+Jeremie Miller
+Lenore Blum
+Herman Goldstine
+Paul Debevec
+Raymond F. Boyce
+Christopher J. Date
+Robert Cecil Martin
+Simon Tatham
+Jonathan Schaeffer
+Fabrice Bellard
+Max Levchin
+Adriaan van Wijngaarden
+Brian Behlendorf
+Michael Tiemann
+Frank Rosenblatt
+Alexander Razborov
+Patrick Winston
+Steve McConnell
+Charles Petzold
+John Maeda
+Alexander Stepanov
+Bob Frankston
+Henri Gouraud
+Charles E. Leiserson
+Manindra Agrawal
+Leon O. Chua
+Viktor Glushkov
+Ken Schwaber
+John Walker
+Ravindran Kannan
+Dmitry Sklyarov
+Alexander Dewdney
+Jay David Bolter
+Robert Taylor
+Robert J. Mical
+Richard Helm
+David A. Wagner
+Richard P. Brent
+Jonathan Bowen
+Lee Felsenstein
+Monte Davidoff
+John Domingue
+Arthur Whitney
+Lov Grover
+Robert Fano
+Thomas S. Ray
+Evgeny Morozov
+Andrzej Ehrenfeucht
+Randal L. Schwartz
+Neil Immerman
+Alistair Cockburn
+Scott Meyers
+David Luenberger
+Przemysław Prusinkiewicz
+Matthew Dillon
+Irfan Škiljan
+Sam Lantinga
+Bill Inmon
+Konrad Fiałkowski
+Brian Paul
+Oren Patashnik
+Shmuel Winograd
+Donald D. Chamberlin
+Alain Colmerauer
+Gary Miller
+Gerhard Hund
+Roy Fielding
+Jean Kuntzmann
+Daniel Spielman
+Victor A. Vyssotsky
+Silvio Micali
+Edmund Berkeley
+Charles Leonard Hamblin
+Greg Kroah-Hartman
+Nikolaus Joachim Lehmann
+Jacques Stern
+Noel Sharkey
+William Reeves
+Jacek Karpiński
+Monty Denneau
+José Luis Encarnação
+Charles Rackoff
+Robert Piloty
+Robert S. Barton
+Fritz-Rudolf Güntsch
+Michael Sipser
+Helmut Schreyer
+Pei-Yuan Wei
+Charles Forgy
+Carl Hewitt
+David Rumelhart
+Tom DeMarco
+William Norris
+Donald Michie
+Hugh Darwen
+Tadao Kasami
+Christopher Strachey
+Steve Grand
+Ronald Fagin
+James McClelland
+Rusty Russell
+Dirk Meyer
+Joel Moses
+Frank Soltis
+Makoto Murata
+Gerald Weinberg
+Donald L. Shell
+Wallace Givens
+Shi-Kuo Chang
+Jean-Paul Delahaye
+Yoav Freund
+Karl Sims
+Walter F. Tichy
+Ian Clarke
+Janusz Wiśniewski
+Mark Spencer
+Jim Gettys
+Edward Yourdon
+Pekka Himanen
+Ursula Hill
+Ute Claussen
+Uwe Lehnert
+Uwe Schöning
+Natalya Kaspersky
+Daniel Robbins
+Victor Zue
+Thomas H. Cormen
+Volkhard Klinger
+Dan Gillmor
+Werner Vogels
+Van Jacobson
+Jessica Mink
+Jono Bacon
+Walter Brenner
+Walter Kuhn
+Jaap Haartsen
+Stef Joosten
+Grigore Moisil
+Werner Mellis
+Herbert Schildt
+Andries van Dam
+Don Coppersmith
+Lars Ramkilde Knudsen
+Wilhelm Schäfer
+Jeffrey Friedl
+William Yerazunis
+William Yeager
+Max Mathews
+Wolfgang Cajar
+Wolfgang Giere
+Wolfgang Giloi
+Wolfgang Glänzel
+Wolfgang König
+Wolfgang Paul
+Todd Howard
+G.M. Nijssen
+Don Woods
+Rich Skrenta
+Shantanu Narayen
+Gerrit Blaauw
+Steve Russell
+Ludvig Strigeus
+Alexander Schrijver
+Alfred Nussbaumer
+Oliver Selfridge
+Philip Emeagwali
+Britta Schinzel
+Ajay Bhatt
+Jan Dietz
+Martin De Prycker
+Johannes Engelfriet
+Louis Castle
+Ernst Strouhal
+Greg Costikyan
+Daniel Glazman
+Bdale Garbee
+Avie Tevanian
+Koji Igarashi
+Peter Samson
+Bob Young
+Rosa Luz Alegría
+Pranav Mistry
+Bertrand Serlet
+Brad Cox
+Kim Bartholomew
+Douglas Comer
+Bob Miner
+Philippe Dreyfus
+Alvy Ray Smith
+Alan Ralsky
+Ayelet Shaked
+Ricardo Reis
+Walter Sprick
+Hicham Charif
+Ahti Heinla
+Alain Lefebvre
+Albert Gonzalez
+Alex Biryukov
+Alex Corenthin
+Alfredo Kojima
+Scott Guthrie
+Jaime de Yraolagoitia
+
+Amit Singhal
+Tony Tebby
+Andrej Preston
+Andrew Koenig
+Andrew Y. Ng
+Andrew Zisserman
+Andrey Andreev
+Andries Brouwer
+André Truong Trong Thi
+Aneesh Chopra
+Antoine Joux
+Armin Rigo
+Assaf Kfoury
+A. J. W. Duijvestijn
+Valentin Turchin
+Evgeny Tyrtyshnikov
+David Turner
+Yorick Wilks
+Bert van 't Klooster
+Junio C Hamano
+Katsuhiro Harada
+Oleg Khlebnikov
+Don R. Swanson
+Gianroberto Casaleggio
+Lou injian
+Aleksandr Chernyavsky
+Anatoly Shalyto
+Sergey Shorgin
+Mykhailo Shura-Bura
+Ceriel Jacobs
+Börje Langefors
+Gerard J. Holzmann
+Bruce Jay Nelson
+Robert S. Boyer
+A.J. Han Vinck
+A. Richard Newton
+Aaron Bobick
+Aaron D. Wyner
+Aaron Marcus
+Abbas Edalat
+Abbas El Gamal
+Abbe Mowshowitz
+Abdul-Majid Bhurgri
+Abhay Bhushan
+Abhaya Induruwa
+Abraham Silberschatz
+Mendel Rosenblum
+Simon S. Lam
+Adam C. Siepel
+Adam Cheyer
+Adam Dunkels
+Adam Kolawa
+Adam Leventhal
+Adam Pease
+Adam Somlai-Fischer
+Adisak Mekkittikul
+Hiroshi Inose
+Adrian David Cheok
+Adrian Walker
+Ahto Buldas
+Ajay Kapur
+Akinori Yonezawa
+Jeff Atwood
+Alain Fournier
+Alain Wegmann
+Alan Bundy
+Alan Burns
+Alan Dix
+Alan Emtage
+Alan G. Merten
+Alan Jay Smith
+Alan M. Davis
+Alan M. Frieze
+Alan Manly
+Alan Miles
+Alan Mycroft
+Alan Rector
+Alan Sherman
+Alan Smeaton
+Alan W. Black
+Alasdair Turner
+Albert L. Hopkins
+Albert R. Meyer
+Alberto Broggi
+Alberto O. Mendelzon
+Albrecht Schmidt
+Aleks Oniszczak
+Aleksandar Jurišič
+Aleksandar Lazarevic
+Alessandro Vespignani
+Alex Fielding
+Alex Martelli
+Alex Pentland
+Alex uilici
+Alex Snoeren
+Alex Verrijn Stuart
+Alexander Bronstein
+Alexander G. Fraser
+Alexander Reinefeld
+Alexander Strehl
+Alexander Tetelbaum
+Alfred Spector
+Ali Jafari
+Alick Glennie
+Allan Borodin
+Allan Bromley
+Allen B. Downey
+Alok R. Chaturvedi
+Alon Y. Halevy
+Amar Gupta
+Amin Shokrollahi
+Amir Taaki
+Amit Sheth
+Amiya Pujari

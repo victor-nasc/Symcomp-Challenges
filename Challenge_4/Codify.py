@@ -1,13 +1,8 @@
 import networkx as nx
 import argparse
 import pandas as pd
+import random
     
-def ThereNumber(value):
-    for v in value:
-        if ascii(v) >= 48 and ascii(v) <= 57:
-            return True
-    return False
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         prog='Codify',
@@ -21,25 +16,23 @@ if __name__ == '__main__':
     relGraph = nx.Graph()
     df = pd.read_csv(file, sep=',')
 
-    print(df.head())
-
     # Insert Vertex
 
     unique = df['personLabel'].unique()
     dictUnique = {}
-    index = 1
-
-    for u in unique:
-        if not ThereNumber(u) and u not in dictUnique:
-            dictUnique[u] = index
-            relGraph.add(index)
-            index += 1
-    
-    unique = df['employerLabel'].unique()
-    dictUnique = {}
+    indexUnique = [0]
+    index = 0
 
     for u in unique:
         if u and u not in dictUnique:
-            dictUnique[u] = index
-            relGraph.add(index)
             index += 1
+            dictUnique[u] = index
+            indexUnique.append(u)
+    
+    seed = 15
+    G = nx.fast_gnp_random_graph(index, 0.5, seed)
+
+    with open("challenge_4.csv", "w+") as f:
+        for (u, v, w) in G.edges(data=True):
+            w['weight'] = random.randint(1, 100)
+            f.write(f"{indexUnique[u + 1]},{indexUnique[v + 1]},{w['weight']},\n")
