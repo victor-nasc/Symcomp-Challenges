@@ -26,11 +26,11 @@ if __name__ == '__main__':
     for u in unique:
         if u and u not in dictUnique:
             index += 1
-            dictUnique[u] = index
-            indexUnique.append(u)
+            dictUnique[u.replace(' ', '_').replace('.', '')] = index
+            indexUnique.append(u.replace(' ', '_').replace('.', ''))
     
     seed = 15
-    G = nx.fast_gnp_random_graph(index, 0.5, seed)
+    G = nx.fast_gnp_random_graph(index, 0.15, seed)
 
     with open("challenge_4.csv", "w+") as f:
         for (u, v, w) in G.edges(data=True):
