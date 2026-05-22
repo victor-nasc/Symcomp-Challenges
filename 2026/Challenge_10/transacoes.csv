@@ -1,0 +1,51 @@
+transaction_id,customer_id,product,total_amount,date
+TXN_01,user_01,Bola Futsal Penalty,2935.0,2025-09-28
+TXN_02,user_02,Tapete Persa Importado,5527.08,2025-07-14
+TXN_03,user_03,Raquete Tênis Wilson,3890.0,2025-05-17
+TXN_04,user_04,Bicicleta Speed Trek,6000.9,2024-01-03
+TXN_05,user_05,Design Patterns - GoF,1553.77,2024-04-10
+TXN_06,user_06,Aspirador Electrolux,2295.03,2025-12-02
+TXN_07,user_07,Panela de Pressão Tramontina,109.0,2025-02-10
+TXN_08,user_08,Tênis Nike Air Max,116.0,2024-12-31
+TXN_09,user_09,Luva Boxe Everlast,1579.98,2025-06-09
+TXN_10,user_10,Python Fluente - Ramalho,1636.96,2024-04-01
+TXN_11,user_11,Tapete Persa Importado,5572.35,2025-04-13
+TXN_12,user_12,Tablet iPad Air,6496.56,2025-08-14
+TXN_13,user_13,Jaqueta Couro Premium,1984.5,2025-01-12
+TXN_14,user_14,Shorts Esportivo Adidas,1283.34,2025-02-12
+TXN_15,user_15,Bola Futsal Penalty,1486.87,2024-04-29
+TXN_16,user_16,Cafeteira Nespresso,3810.03,2025-09-06
+TXN_17,user_17,Bola Futsal Penalty,1215.66,2025-06-21
+TXN_18,user_18,Tênis Nike Air Max,2745.72,2025-05-05
+TXN_19,user_19,Jogo de Cama 300 Fios,2513.84,2025-08-12
+TXN_20,user_20,Calça Jeans Levi's,1310.16,2025-12-22
+TXN_21,user_21,Jogo de Cama 300 Fios,98.0,2025-09-29
+TXN_22,user_22,Cafeteira Nespresso,2672.82,2024-08-22
+TXN_23,user_23,Mochila Hiking Deuter,1242.48,2025-04-12
+TXN_24,user_24,O Senhor dos Anéis,1143.12,2025-07-12
+TXN_25,user_25,Tênis Nike Air Max,3050.67,2024-11-11
+TXN_26,user_26,Tapete Persa Importado,6795.84,2025-05-05
+TXN_27,user_27,Luva Boxe Everlast,1346.4,2024-10-28
+TXN_28,user_28,Raquete Tênis Wilson,1914.5,2024-06-02
+TXN_29,user_29,Python Fluente - Ramalho,1585.5,2025-06-19
+TXN_30,user_30,Garrafa Térmica Stanley,1258.8,2024-07-23
+TXN_31,user_31,Tênis Nike Air Max,3576.48,2025-06-07
+TXN_32,user_32,Bicicleta Speed Trek,7122.74,2025-07-25
+TXN_33,user_33,O Senhor dos Anéis,111.0,2024-11-20
+TXN_34,user_34,Aspirador Electrolux,2058.27,2025-06-11
+TXN_35,user_35,Tênis Nike Air Max,3035.04,2024-07-06
+TXN_36,user_36,Cafeteira Nespresso,3967.04,2024-03-06
+TXN_37,user_37,Python Fluente - Ramalho,1115.35,2025-01-14
+TXN_38,user_38,Smartwatch Apple Watch,6449.24,2025-02-25
+TXN_39,user_39,Tablet iPad Air,7016.84,2024-04-04
+TXN_40,user_40,Smartphone Samsung Galaxy,7982.58,2024-03-26
+TXN_41,user_41,Design Patterns - GoF,4772.76,2025-09-27
+TXN_42,user_42,Fone Bluetooth JBL,109.0,2025-11-15
+TXN_43,user_43,Bicicleta Speed Trek,7741.76,2024-01-06
+TXN_44,user_44,Vestido Floral,2041.6,2025-05-18
+TXN_45,user_45,Dom Casmurro - Machado,1529.44,2025-07-12
+TXN_46,user_46,Calça Jeans Levi's,1841.34,2025-09-04
+TXN_47,user_47,Bola Futsal Penalty,1674.4,2024-03-27
+TXN_48,user_48,Cafeteira Nespresso,3584.96,2024-05-18
+TXN_49,user_49,Luva Boxe Everlast,1509.69,2025-02-25
+TXN_50,user_50,Liquidificador Oster,1203.2,2024-07-20
